@@ -1,0 +1,8 @@
+As a customer i can :
+ -Buy product
+ -Make order 
+ -Add to cart 
+As an admin :
+  -Manage products
+  -Block customer 
+  -Validate orders
